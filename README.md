@@ -1,23 +1,23 @@
-# 📰 News App
+# 🏡 Home Management App
 
-Welcome to the News App! This project is a comprehensive news application that provides users with the latest news articles from various sources. 🚀
+Welcome to the Home Management App! This project is a comprehensive solution for managing household tasks, expenses, and maintenance schedules. 🚀
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** Flutter
 - **Backend:** Node.js with Express.js
 - **Database:** MongoDB
-- **API Integration:** NewsAPI
 - **Authentication:** JWT (JSON Web Tokens)
 
 ## ✨ Features
 
 - **User Authentication:** Secure user login and registration with JWT.
-- **Latest News:** Fetch and display the latest news articles from multiple sources.
-- **Categories:** Browse news by categories such as Technology, Sports, Business, etc.
-- **Search Functionality:** Search for news articles by keywords.
-- **Bookmarks:** Save favorite articles for later reading.
-- **Notifications:** Get notified about breaking news.
+- **Task Management:** Create, assign, and track household tasks.
+- **Expense Tracking:** Record and monitor household expenses.
+- **Maintenance Schedules:** Schedule and remind for regular maintenance tasks.
+- **Shopping List:** Create and share shopping lists with family members.
+- **Notifications:** Get reminders for tasks, expenses, and maintenance.
+- **User Profiles:** Manage user profiles and roles within the household.
 - **Responsive Design:** Optimized for both mobile and tablet devices.
 
 ## 🚀 Getting Started
@@ -26,15 +26,14 @@ Welcome to the News App! This project is a comprehensive news application that p
 
 - Node.js
 - MongoDB
-- NewsAPI Account
 
 ### Installation
 
 1. **Clone the repo:**
 
     ```bash
-    git clone https://github.com/yourusername/news-app.git
-    cd news-app
+    git clone https://github.com/yourusername/home-management-app.git
+    cd home-management-app
     ```
 
 2. **Install dependencies:**
@@ -50,7 +49,6 @@ Welcome to the News App! This project is a comprehensive news application that p
     ```makefile
     MONGODB_URI=your_mongodb_uri
     JWT_SECRET=your_jwt_secret
-    NEWS_API_KEY=your_newsapi_key
     ```
 
 4. **Run the backend server:**
@@ -74,6 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙏 Acknowledgements
 
 Special thanks to the contributors and the open-source community for their support.
+
 
 ![Screenshot_20240625-223142](https://github.com/AMNAMAHAR/Home_app-flutter-_master/assets/158574242/f59ef63e-9b2e-4fdb-939b-f0584ff28a5e)
 
